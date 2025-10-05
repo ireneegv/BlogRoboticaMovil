@@ -1,4 +1,4 @@
 -----------
-#PRÁCTICAS REALIZADAS
+# PRÁCTICAS REALIZADAS
 -----------
 [p1](P1.md)
